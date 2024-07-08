@@ -1,0 +1,6 @@
+python-dotenv
+pyTelegramBotAPI
+aiohttp
+instaloader
+tiktokpy
+yt-dlp
